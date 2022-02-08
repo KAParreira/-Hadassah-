@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+	padding: 0;
+}
+
+body{
+	 
+     background-color:#00BFFF ;	
+}
+
+h2 {
+     text-align:center;
+	 margin-right:5%;
+}
+
+h1{
+    font-family: fantasy;
+	text-align:center;
+	color:#000000;
+	margin-top:15%;
+}
+
+a {
+  text-decoration: none;
+  font-size:18pt;
+  font-family:fantasy;
+  color:#000000;
+  
+}
+
+nav {
+	width: 21%;
+	height: 500px;
+	float:left;
+	background-color: #DC143C;
+	margin-left:2%;
+	margin-top:1%;
+}
+	
+
+Button.btn1 {
+	width: 90%;
+	height: 45px;
+	background-color: #00BFFF;
+	border:none;  
+	margin-left:5%;
+	margin-top:5%;
+
+}
+
+section{
+	 float: left;	 
+	 background: linear-gradient(90deg, #00b0FF  5%, #DC144C 95%);
+	 width:100%;
+	 height:auto;
+}
+
+.boxH {
+	 padding:5%;
+}
+
+Button{
+	 color:#000000;
+}
+
+.title {
+	background-color: #DC143C;
+	padding:0.5%;
+	margin-left:2%;
+	margin-right:2%;
+	margin-top:1%;	
+}
+.img {
+	 margin-left:40%;
+}
+
+.carousel-item {
+	 padding:2%;
+}
+
+.box{ 
+	 background-color: #00bfff;
+	 margin-right:1%;
+	 margin-top:50%;
+}
+
+.box1{ 
+
+	 float:left;
+	 padding:2%;
+	 
+}
+
+.card{
+	 padding:2%;
+}
+
+.container1 {
+	 margin-left:2%;
+	 margin-right:2%;
+}
+
+.img2{
+     width:65%;
+	 height:auto;
+     margin-top:25%;
+	 margin-left:13%;
+    
+}
+
+h3{	
+     margin-top:9%;
+	 margin-left:15%;
+	 font-size:29pt;
+	 font-family:Verdana;	
+}
+
+.img3{
+	 margin-left:40%;
+}

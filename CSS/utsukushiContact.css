@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+	padding: 0;
+}
+
+body{
+	 
+     background-color:#00BFFF;	
+}
+
+h1{
+    font-family: fantasy;
+	text-align:center;
+	color:#000000;
+	margin-top:15%;
+}
+
+.title {
+	background-color: #DC143C;
+	padding:0.5%;
+	margin-left:2%;
+	margin-right:2%;
+	margin-top:1%;	
+}
+
+.img {
+	 margin-left:40%;
+}
+
+nav {
+	width: 21%;
+	height: 500px;
+	float:left;
+	background-color: #DC143C;
+	margin-left:2%;
+	margin-top:1%;
+}
+
+Button.btn1 {
+	width: 90%;
+	height: 45px;
+	background-color: #00BFFF;
+	border:none;  
+	margin-left:5%;
+	margin-top:5%;
+
+}
+
+a {
+  text-decoration: none;
+  font-size:18pt;
+  font-family:fantasy;
+  color:#000000;
+  
+}
+
+.boxH {
+	 padding:5%;
+}
+
+.img2{
+     width:65%;
+	 height:auto;
+     margin-top:25%;
+	 margin-left:13%;
+    
+}
+
+section{
+	 float: right;	 
+	 background: linear-gradient(90deg, #00b0FF  5%, #DC144C 95%);
+	 width:74%;
+	 height:auto;
+	 margin-right:2%;
+	 margin-top:1%;
+	 padding:2.5% 1%;;
+}
+
+.campo{
+	 width:300px;
+	 height:40px;
+	 display: inline-block;
+     border: 1px solid #A9A9A9;
+	 margin-top:1%;
+	
+}
+
+.btn {
+	 background-color: #DC143C;
+	 color: #000000;
+     padding:1%;	
+	 font-family:fantasy;
+}
+
+form {
+	 padding:5%;
+	 margin-left:5%;
+}
+
+.box{
+	margin-top:2%;
+}
+
+h5 {
+	 font-family:fantasy;
+	 margin-top:1%;
+	 color:#000000;
+}
